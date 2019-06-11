@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rock PaperScissors</string>
+    <string name="playerCoice">Player</string>
+    <string name="CpuChoice">CPU</string>
+    <string name="scoreBoard">Player Score: 0 | CPU Score: 0</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="iv2_description">CPU Player selection image output</string>
+    <string name="iv1_description">Human Player selection image output</string>
+</resources>
